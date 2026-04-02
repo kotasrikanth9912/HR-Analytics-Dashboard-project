@@ -8,6 +8,7 @@ Analyzed employee attrition trends based on department, salary, age, and experie
 Created insightful visualizations such as bar charts, pie charts, and trend analysis.
 Improved business understanding of workforce patterns and retention strategies.
 Enabled real-time insights by integrating structured HR datasets.
+
 🛠️ Tools & Technologies
 Power BI
 Excel
