@@ -14,6 +14,7 @@ Power BI
 Excel
 Data Cleaning & Transformation
 Data Visualization
+
 📈 Key Insights
 Identified departments with high attrition rates
 Analyzed impact of salary and experience on employee retention
