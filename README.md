@@ -1,5 +1,6 @@
 # HR-Analytics-Dashboard-project
 Project Description
+
 Developed an interactive HR Analytics Dashboard to analyze employee data and support data-driven decision-making.
 
 Used Power BI to visualize key HR metrics like attrition, employee performance, and workforce distribution.
